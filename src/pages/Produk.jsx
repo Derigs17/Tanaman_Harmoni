@@ -38,7 +38,7 @@ const Produk = () => {
               <option value="Jambu" />
               <option value="Durian" />
               <option value="Mawar" />
-              {/* Tambahkan opsi lainnya sesuai dengan data yang tersedia di database */}
+              
             </datalist>
             <input type="submit" />
           </form>
