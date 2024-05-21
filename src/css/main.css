@@ -1,0 +1,40 @@
+/* navbar */
+.navbar-rounded {
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .custom-nav-link {
+    color: white !important;
+  }
+/* footer */
+  .Footer{
+    background-color: #34745C;
+  }
+
+/* home */
+.split-background {
+    background: linear-gradient(to right, white 50%, #A1D1A6 50%);
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+  }
+  
+  .split-background .container-fluid {
+    position: relative;
+    z-index: 1;
+  }
+  
+  /* Ensure that the entire background including navbar is split */
+  body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-x: hidden;
+  }
+
+  /* produk */
+
+  
