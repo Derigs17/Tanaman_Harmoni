@@ -1,8 +1,24 @@
-# React + Vite
+## Installation Steps
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Clone this GitHub repository:
+    ```sh
+    git clone https://github.com/Derigs17/Tanaman_Harmoni.git
+    ```
+2. Masuk ke Admin install NPM:
+    ```sh
+    npm install
+    ```
+3. Jalankan APK
+     ```sh
+    npm run dev
+    ```
+4. Masuk ke Terminal baru lalu Install:
+    ```sh
+     npm install express mysql cors
+    ```
+5. Jalankan APK:
+    ```sh
+     node src/server.js
+    ```
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    note: harus sudah punya node, punya laragon/xmpp dan harus di jalankan terlebih dahulu
